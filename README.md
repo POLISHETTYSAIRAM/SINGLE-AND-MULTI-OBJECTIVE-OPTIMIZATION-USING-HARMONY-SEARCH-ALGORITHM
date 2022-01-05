@@ -3,7 +3,7 @@ Here the harmony search optimization algorithm is used to optimize the cost or w
 single objective optimization is to reduce the weight of the total structure by harmony search algorithm
 multi objective optimization is done using kursawe test function and schaffer test function 
 
-Kursawe tet function
+Kursawe test function
 
 ![image](https://user-images.githubusercontent.com/95177115/148196072-0f3b4fa4-bfd7-4be8-899d-892dc6992a36.png)
 
